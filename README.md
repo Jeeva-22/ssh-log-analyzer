@@ -20,7 +20,7 @@ This script solves that by isolating repeated authentication failures from uniqu
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Ensure `sample_auth.log` is in the same directory as the script.
+2. Ensure `auth.log` is in the same directory as the script.
 3. Run the script via the command line:
    ```bash
    python log_analyzer.py
